@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: networkdb
+Version: 0.0.1
+Summary: Python package interacting with network databases and gene names
+Home-page: https://github.com/djwooten/networkdb
+Author: David J. Wooten
+Author-email: dwooten@psu.edu
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: systems biology network gene regulatory
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Education
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Medical Science Apps.
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown

@@ -1,0 +1,3 @@
+Homo_sapiens.gene_info.tsv - Entrez - https://ftp.ncbi.nih.gov/gene/DATA/GENE_INFO/Mammalia/
+mart_export.txt - ensembl - https://www.ensembl.org/biomart/
+hgnc.tsv - HGNC - https://www.genenames.org/download/custom/
